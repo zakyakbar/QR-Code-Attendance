@@ -1,4 +1,8 @@
 # QR-Code-Attendance
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![My image](zakyakbar.github.com/QR-Code-Attendance/assets/home.jpg)
 Attendance with QR Code From Android Smartphone also Website Attendance Database
 
 ==== Tidak ada Database dikarenakan Terhapus ====
