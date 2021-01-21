@@ -3,6 +3,7 @@
 CodeIgniter And Java Android
 
 ![home](https://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/home.jpg)
+![home](https://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/web.PNG)
 
 ==== Tidak ada Database dikarenakan Terhapus ====
 
