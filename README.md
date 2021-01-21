@@ -13,5 +13,4 @@ Buat Database MySQL Sesuai dengan Controller yang ada di folder Website Database
 2. apidosen = Api untuk dosen Login
 3. apilogin = Api untuk Mahasiswa Login dan juga Api untuk Menampilkan Data" dari Website Database (dataDosen, dataMatakuliah)
 4. Website Database = Website Database Absensi/Mahasiswa/Dosen/Matakuliah menggunakan Boostrap CodeIgniter
-
-==Dmong==
+5. Appjava = SC Java
