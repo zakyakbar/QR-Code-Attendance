@@ -2,18 +2,12 @@
 
 CodeIgniter And Java Android
 
-![Role](https://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/roleact.jpg).
-
-![Login](htps://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/loginform.jpg).
-
-![Home](htps://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/home.jpg).
-
-![web](htps://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/web.png).
-
+![home](https://github.com/zakyakbar/QR-Code-Attendance/blob/main/assets/home.jpg)
 
 ==== Tidak ada Database dikarenakan Terhapus ====
 
 ==== HOW TO USE =====
+
 Buat Database MySQL Sesuai dengan Controller yang ada di folder Website Database
 
 ==== Keterangan Setiap Folder ====
