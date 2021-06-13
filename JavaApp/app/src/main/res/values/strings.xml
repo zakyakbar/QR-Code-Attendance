@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Smart Absensi</string>
-
-    <string name="absen"> <u>ABSEN</u></string>
-
-    <string name="login"> <u>LOGIN</u> </string>
-
-    <string name="selesaiabsen"> <u>ABSEN SUKSES</u></string>
-</resources>
